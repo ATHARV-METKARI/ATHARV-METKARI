@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @ATHARV-METKARI
 - 👀 I’m interested in Gaming,Reinforement learning
-- 🌱 I’m currently learning DevOps
 - 💞️ I’m currently looking for work exprience 
 - 📫 How to reach me https://www.linkedin.com/in/atharv-metkari-5b7bb6320/
 - 😄 Pronouns: he/him
